@@ -51,7 +51,8 @@ We make it as simple as possible to make research Findable, Accessible, Interope
 [Open Data Commons](https://opendatacommons.org/)
 
 # Useful links
+[Orion- OpenScience Project: FactSheets](https://www.orion-openscience.eu/public/2019-02/201810-VA-Orion-FactSheets-V5.pdf)
 [Research Preprints:server list](https://docs.google.com/spreadsheets/d/17RgfuQcGJHKSsSJwZZn0oiXAnimZu2sZsWp8Z6ZaYYo/edit#gid=0)  
-[Data Sharing and the future of science](https://www.nature.com/articles/s41467-018-05227-z) Nature Communicationsvolume 9, Article number: 2817 (2018)  
+[Data Sharing and the future of science](https://www.nature.com/articles/s41467-018-05227-z) Nature Communications volume 9, Article number: 2817 (2018)  
 ORCID A system to uniquely identify researcher  
 Publons A system to recognize your work as a reviewer  
