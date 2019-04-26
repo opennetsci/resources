@@ -1,8 +1,5 @@
 # resources
 List of resources for the hackathon
-You'll learn to establish links between publications data and methods, how to attach a persistent identifier and metadata to your results, and methods for clarifying usage rights. You will also discover ways to apply these principles to your daily research and adapt existing routines. Finally, you'll uncover potential barriers to sharing research and discuss possible solutions. 
-
-This course will help you grasp the key principles of Open Science, with answers to questions like:
 
     How can researchers effectively store, manage, and share research data?
     What kinds of open access publishing are most effective?
@@ -18,6 +15,8 @@ This course will help you grasp the key principles of Open Science, with answers
     Evaluating a data management plan
     Explaining how Open Data can be applied in your field of research
     
+For an extensive list of resources for Open Science see: [OpenScience MOOC](https://opensciencemooc.eu/resources/#)
+
 ## For OpenCode
 [Zenodo](https://zenodo.org/)  
 Zenodo in a nutshell
