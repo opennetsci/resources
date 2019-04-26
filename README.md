@@ -20,7 +20,7 @@ For an extensive list of resources for Open Science see: [OpenScience MOOC](http
 [GitHub]()
 [Mercury]()
 
-[Open Science Framework]()
+[Open Science Framework](https://osf.io/)
 
 OSF helps individuals, teams and labs make their research processes more efficient.
 
@@ -30,10 +30,20 @@ OSF helps individuals, teams and labs make their research processes more efficie
     Add others to your projects to collaborate, or provide private access to view.
     Keep all your files, data, and protocols in one centralized location. Secure Cloud
     You control which parts of your project are public or private making it easy to collaborate with the worldwide community or just your team. 
+[Synapse](https://www.synapse.org/)  
+[ReproZip]()
 
 
+ReproZip can automatically pack your research along with all necessary data files, libraries, environment variables and options into a self-contained bundle. Then ReproZip can use that bundle to automatically set up the same original environment so anybody can reproduce the research on a different machine, without tracking down and installing the dependencies, or even having to run the same operating system!
 
 ## ShareYourCode
+
+[Binder](https://mybinder.org/)
+Turn a Git repo into a collection of interactive notebooks
+Have a repository full of Jupyter notebooks? With Binder, open those notebooks in an executable environment, making your code immediately reproducible by anyone, anywhere
+
+## ShareYourData
+[Registry of research data repository](https://www.re3data.org/)
 [Zenodo](https://zenodo.org/)  
 Zenodo in a nutshell
 
