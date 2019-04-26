@@ -1,5 +1,4 @@
-# resources
-List of resources for the hackathon
+# List of resources for the hackathon
 
     How can researchers effectively store, manage, and share research data?
     What kinds of open access publishing are most effective?
@@ -7,18 +6,15 @@ List of resources for the hackathon
     How can the use of social media contribute to the visibility and impact of research?
     
     Learning the disciplinary standards of FAIR data sharing
-    Evaluating the strengths and weaknesses of different data storage and backup options
+Different data storage and backup options
     Organizing, documenting, and adding metadata to research data to optimize the visibility of your data
     Data archiving, access, sharing and re-use with the use of data repositories
     Understanding the different copyright licenses designed to deal with open data
-    Dealing with confidential data, company restrictions, and third-party agreements through case studies
-    Evaluating a data management plan
-    Explaining how Open Data can be applied in your field of research
     
 For an extensive list of resources for Open Science see: [OpenScience MOOC](https://opensciencemooc.eu/resources/#)
 ## ShareYourProject
-[GitHub]()
-[Mercury]()
+[GitHub]()  
+[GitLab]()  
 
 [Open Science Framework](https://osf.io/)
 
