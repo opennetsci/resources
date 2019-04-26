@@ -53,18 +53,27 @@ We make it as simple as possible to make research Findable, Accessible, Interope
     Document with customizable, discipline-specific metadata
 
     Discoverable content across major search engines and academic frameworks
+    
+[Dryad Digital Repository](http://datadryad.org)
+The Dryad Digital Repository is a curated resource that makes the data underlying scientific publications discoverable, freely reusable, and citable. Dryad provides a general-purpose home for a wide diversity of datatypes.
 
+Dryad’s vision is to promote a world where research data is openly available, integrated with the scholarly literature, and routinely re-used to create knowledge.
+
+Our mission is to provide the infrastructure for, and promote the re-use of, data underlying the scholarly literature.
+
+Dryad is governed by a nonprofit membership organization. Membership is open to any stakeholder organization, including but not limited to journals, scientific societies, publishers, research institutions, libraries, and funding organizations.
+
+Publishers are encouraged to facilitate data archiving by coordinating the submission of manuscripts with submission of data to Dryad. Learn more about submission integration.
+
+Dryad originated from an initiative among a group of leading journals and scientific societies in evolutionary biology and ecology to adopt a joint data archiving policy (JDAP) for their publications, and the recognition that easy-to-use, sustainable, community-governed data infrastructure was needed to support such a policy.
     
 # Licenses
-
+Open source licenses grant permission to everyone to use, modify, and share licensed software for any purpose, subject to conditions preserving the provenance and openness of the software.
 ## For Code
-### Creative Commons
-
-### MIT
-
-### GNU
+[list of licences](https://choosealicense.com/licenses)
 ## For Data
-[Open Data Commons](https://opendatacommons.org/)
+[Open Data Commons](https://opendatacommons.org/)  
+[Creative Commons](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-databases)  
 
 # Useful links
 [Orion- OpenScience Project: FactSheets](https://www.orion-openscience.eu/public/2019-02/201810-VA-Orion-FactSheets-V5.pdf)
