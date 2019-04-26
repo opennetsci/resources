@@ -29,7 +29,16 @@ Zenodo in a nutshell
     Flexible licensing — because not everything is under Creative Commons.
     Safe — your research output is stored safely for the future in the same cloud infrastructure as CERN's own LHC research data.
 
-[Figshare](
+[Figshare](https://figshare.com/)  
+Simple and FAIR
+We make it as simple as possible to make research Findable, Accessible, Interoperable and Reuasble (FAIR)
+
+    Publish research in any file format and assign an institutionally-branded DOI
+
+    Document with customizable, discipline-specific metadata
+
+    Discoverable content across major search engines and academic frameworks
+
     
 # Licenses
 
