@@ -1,38 +1,16 @@
 # List of resources for the hackathon
 
-    How can researchers effectively store, manage, and share research data?
-    What kinds of open access publishing are most effective?
-    How can researchers increase the visibility and impact of their research?
-    How can the use of social media contribute to the visibility and impact of research?
-    
-    Learning the disciplinary standards of FAIR data sharing
 Different data storage and backup options
-    Organizing, documenting, and adding metadata to research data to optimize the visibility of your data
-    Data archiving, access, sharing and re-use with the use of data repositories
-    Understanding the different copyright licenses designed to deal with open data
+Organizing, documenting, and adding metadata to research data to optimize the visibility of your data
+Data archiving, access, sharing and re-use with the use of data repositories
+Understanding the different copyright licenses designed to deal with open data
     
 For an extensive list of resources for Open Science see: [OpenScience MOOC](https://opensciencemooc.eu/resources/#)
-## ShareYourProject
-[GitHub]()  
-[GitLab]()  
-
-[Open Science Framework](https://osf.io/)
-
-OSF helps individuals, teams and labs make their research processes more efficient.
-
-    View all of your projects from one dashboard.
-    Share key project information and allow others to use and cite it.
-    See the latest project changes, who is contributing and historical file versions.
-    Add others to your projects to collaborate, or provide private access to view.
-    Keep all your files, data, and protocols in one centralized location. Secure Cloud
-    You control which parts of your project are public or private making it easy to collaborate with the worldwide community or just your team. 
-[Synapse](https://www.synapse.org/)  
-[ReproZip]()
-
-
-ReproZip can automatically pack your research along with all necessary data files, libraries, environment variables and options into a self-contained bundle. Then ReproZip can use that bundle to automatically set up the same original environment so anybody can reproduce the research on a different machine, without tracking down and installing the dependencies, or even having to run the same operating system!
 
 ## ShareYourCode
+
+[Git]()  
+[GitHub]()  
 
 [Binder](https://mybinder.org/)
 Turn a Git repo into a collection of interactive notebooks
@@ -72,7 +50,25 @@ Dryad is governed by a nonprofit membership organization. Membership is open to 
 Publishers are encouraged to facilitate data archiving by coordinating the submission of manuscripts with submission of data to Dryad. Learn more about submission integration.
 
 Dryad originated from an initiative among a group of leading journals and scientific societies in evolutionary biology and ecology to adopt a joint data archiving policy (JDAP) for their publications, and the recognition that easy-to-use, sustainable, community-governed data infrastructure was needed to support such a policy.
-    
+
+## ShareYourFramework
+[GitLab]()  
+
+[Open Science Framework](https://osf.io/)
+
+OSF helps individuals, teams and labs make their research processes more efficient.
+
+    View all of your projects from one dashboard.
+    Share key project information and allow others to use and cite it.
+    See the latest project changes, who is contributing and historical file versions.
+    Add others to your projects to collaborate, or provide private access to view.
+    Keep all your files, data, and protocols in one centralized location. Secure Cloud
+    You control which parts of your project are public or private making it easy to collaborate with the worldwide community or just your team. 
+[Synapse](https://www.synapse.org/)  
+[ReproZip]()
+
+
+ReproZip can automatically pack your research along with all necessary data files, libraries, environment variables and options into a self-contained bundle. Then ReproZip can use that bundle to automatically set up the same original environment so anybody can reproduce the research on a different machine, without tracking down and installing the dependencies, or even having to run the same operating system!
 # Licenses
 Open source licenses grant permission to everyone to use, modify, and share licensed software for any purpose, subject to conditions preserving the provenance and openness of the software.
 ## For Code
