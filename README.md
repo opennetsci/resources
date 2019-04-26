@@ -16,8 +16,24 @@ List of resources for the hackathon
     Explaining how Open Data can be applied in your field of research
     
 For an extensive list of resources for Open Science see: [OpenScience MOOC](https://opensciencemooc.eu/resources/#)
+## ShareYourProject
+[GitHub]()
+[Mercury]()
 
-## For OpenCode
+[Open Science Framework]()
+
+OSF helps individuals, teams and labs make their research processes more efficient.
+
+    View all of your projects from one dashboard.
+    Share key project information and allow others to use and cite it.
+    See the latest project changes, who is contributing and historical file versions.
+    Add others to your projects to collaborate, or provide private access to view.
+    Keep all your files, data, and protocols in one centralized location. Secure Cloud
+    You control which parts of your project are public or private making it easy to collaborate with the worldwide community or just your team. 
+
+
+
+## ShareYourCode
 [Zenodo](https://zenodo.org/)  
 Zenodo in a nutshell
 
