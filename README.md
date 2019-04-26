@@ -72,7 +72,7 @@ ReproZip can automatically pack your research along with all necessary data file
 # Licenses
 Open source licenses grant permission to everyone to use, modify, and share licensed software for any purpose, subject to conditions preserving the provenance and openness of the software.
 ## For Code
-[list of licences](https://choosealicense.com/licenses)
+[List of open software licences](https://choosealicense.com/licenses)
 ## For Data
 [Open Data Commons](https://opendatacommons.org/)  
 [Creative Commons](https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-databases)  
