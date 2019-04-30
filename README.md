@@ -1,6 +1,6 @@
 # List of resources for the hackathon
 
-Different data storage and backup options  
+Version control and code backup options  
 Organizing, documenting, and adding metadata to research data to optimize the visibility of your data  
 Data archiving, access, sharing and re-use with the use of data repositories  
 Different copyright licenses designed to deal with open data
