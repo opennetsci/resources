@@ -9,8 +9,12 @@ For an extensive list of resources for Open Science see: [OpenScience MOOC](http
 
 ## ShareYourCode
 
+### Distibuted version control systems (DVCS)
 [Git]()  
-[GitHub]()  
+[Mercurial]()  
+[GitHub]()   
+[Bitbucket]()  
+
 
 [Binder](https://mybinder.org/)
 Turn a Git repo into a collection of interactive notebooks
