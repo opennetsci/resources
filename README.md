@@ -1,9 +1,9 @@
 # List of resources for the hackathon
 
-Different data storage and backup options
-Organizing, documenting, and adding metadata to research data to optimize the visibility of your data
-Data archiving, access, sharing and re-use with the use of data repositories
-Understanding the different copyright licenses designed to deal with open data
+Different data storage and backup options  
+Organizing, documenting, and adding metadata to research data to optimize the visibility of your data  
+Data archiving, access, sharing and re-use with the use of data repositories  
+Different copyright licenses designed to deal with open data
     
 For an extensive list of resources for Open Science see: [OpenScience MOOC](https://opensciencemooc.eu/resources/#)
 
