@@ -40,8 +40,11 @@ Keep all your files, data, and protocols in one centralized location.
 [Synapse](https://www.synapse.org/)  
 [ReproZip](https://www.reprozip.org/)  
 
-    ReproZip can automatically pack your research along with all necessary data files, libraries, environment variables and options into a self-contained bundle.
-    Then ReproZip can use that bundle to automatically set up the same original environment so anybody can reproduce the research on a different machine, without tracking down and installing the dependencies, or even having to run the same operating system!
+    ReproZip can automatically pack your research along with all necessary data files, libraries, environment 
+    variables and options into a self-contained bundle.
+    Then ReproZip can use that bundle to automatically set up the same original environment so anybody can 
+    reproduce the research on a different machine, without tracking down and installing the dependencies, 
+    or even having to run the same operating system!
 # Licenses
 Open source licenses grant permission to everyone to use, modify, and share licensed software for any purpose, subject to conditions preserving the provenance and openness of the software.  
 ## For Code  
