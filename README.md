@@ -27,6 +27,7 @@ Hosting services
 * [Binder](https://mybinder.org/): Turn a Git repo into a collection of interactive notebooks  
 * [CodeOcean](https://codeocean.com/): Share code and data alongside published articles. Users can view, edit, and run the article’s code using a web browser.
 * [CodePen](https://codepen.io/): Share simple HTML / CSS / Javascript code quips.
+* [Heroku](https://www.heroku.com/): Cloud platform as a service (PaaS) supporting several programming languages. Free options available.
 
 ## ShareYourData
 
